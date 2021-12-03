@@ -1,0 +1,31 @@
+{
+  "name": "Snowman Club #8",
+  "description": "The Yeti 6000 DNA,s NFT Collection.",
+  "image": "https://raw.githubusercontent.com/snowmanclub/JSON/main/8.png",
+  "dna": "8c2fb2ae3979a15867c0e7e014fc30f8d09e92f6",
+  "edition": 8,
+  "date": 1638560140881,
+  "attributes": [
+    {
+      "trait_type": "1-Background",
+      "value": "Salmon"
+    },
+    {
+      "trait_type": "2-Snowman",
+      "value": "Withe"
+    },
+    {
+      "trait_type": "3-Mouth",
+      "value": "Naive laugh"
+    },
+    {
+      "trait_type": "4-Hat",
+      "value": "Mexican Hat"
+    },
+    {
+      "trait_type": "5-Eyes",
+      "value": "Suspicious"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
